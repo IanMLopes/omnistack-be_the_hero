@@ -11,5 +11,7 @@ Abre o terminal na pasta <b>frontend</b> e execute o comando <b>yarn start</b> p
 Abre o terminal na pasta <b>mobile</b> e execute o comando <b>yarn start</b> para rodar a aplicação <b>mobile</b></br>
 Baixe o aplicativo <b>Expo</b> e leia o QR Code para o aplicativo rodar no seu smartphone.
 
+<b>OBS:</b> caso não conectar, inserir o ip da sua maquina na pasta  <b>mobile/src/services/api.js</b> no arquivo api.js, trocar na  baseURL apenas eu ip, mantendo o restante.
+
 
 
