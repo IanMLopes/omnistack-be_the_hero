@@ -1,4 +1,4 @@
-<h3>Projeto desenvolvido com as tecnologias <i><img src="tec-imgs/reactjs.jpg" height="25" idth="15">React, <img src="tec-imgs/reactnative.jpg" height="25" idth="15">React Native, Node e SQLite</i></h3>
+<h3>Projeto desenvolvido com as tecnologias <i><img src="tec-imgs/reactjs.jpg" height="25" idth="15">React, <img src="tec-imgs/reactnative.jpg" height="25" idth="15">React Native,<img src="tec-imgs/node.jpg" height="25" idth="15"> Node e <img src="tec-imgs/sqlite.jpg" height="25" idth="15">SQLite</i></h3>
 
 Projeto desenvolvido na semana 11 da omniStack, ocorrida entre 23/03 e 27/03. Foi desenvolvido uma aplicação <b>web</b>, <b>mobile</b> e uma <b>api</b>.<br/>
 Esse sistema conecta pessoas que desejam ajudar as ONGS.</br>
