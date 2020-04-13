@@ -13,8 +13,8 @@ Baixe o aplicativo <b>Expo</b> e leia o QR Code para o aplicativo rodar no seu s
 
 <b>OBS:</b> caso não conectar, inserir o ip da sua maquina na pasta  <b>mobile/src/services/api.js</b> no arquivo api.js, trocar na  baseURL apenas eu ip, mantendo o restante.
 
-<h2>Telas</h>
+<h2>Telas</h2></br>
 
-<img src="tec-imgs/tela1.png" height="600" idth="130">
+<img src="tec-imgs/tela1.png" width="100%" height="50%" >
 
 
