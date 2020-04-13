@@ -15,6 +15,6 @@ Baixe o aplicativo <b>Expo</b> e leia o QR Code para o aplicativo rodar no seu s
 
 <h2>Telas</h>
 
-<img src="tec-imgs/tela1.png" height="600" idth="300">
+<img src="tec-imgs/tela1.png" height="600" idth="200">
 
 
