@@ -20,8 +20,8 @@ Baixe o aplicativo <b>Expo</b> e leia o QR Code para o aplicativo rodar no seu s
 <img src="tec-imgs/tela3.png" width="100%" height="50%" >
 <img src="tec-imgs/tela4.png" width="100%" height="50%" >
 
-<img src="tec-imgs/tela5.png" width="50%" height="70%" >   <img src="tec-imgs/tela6.png" width="50%" height="70%" >
-<img src="tec-imgs/tela7.png" width="50%" height="70%" >   <img src="tec-imgs/tela8.png" width="50%" height="70%" >
+<img src="tec-imgs/tela5.png" width="50%" height="70%" ><img src="tec-imgs/tela6.png" width="50%" height="70%" >
+<img src="tec-imgs/tela7.png" width="50%" height="70%" ><img src="tec-imgs/tela8.png" width="50%" height="70%" >
                       <img src="tec-imgs/tela9.png" width="50%" height="70%" >
                       
 <img src="tec-imgs/telain.png" width="100%" height="50%" >
